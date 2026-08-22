@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.log
+node_modules/
+dist/
+build/
+kb-storage/hf-cache/
+**/hf-cache/
+kb-storage/hf-cache/
+**/hf-cache/
